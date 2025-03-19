@@ -12,7 +12,7 @@ Introducir los datos y **Save**
 ![Image](https://github.com/user-attachments/assets/8bcd6a8a-8f0a-45eb-99db-5eb6d174d977)
 <br>
 
-Ahora en BurpSuite dar a **Proxy setting**
+Ahora en BurpSuite dar a **Proxy > Proxy setting**
 
 ![Image](https://github.com/user-attachments/assets/b4f1751e-083b-4f9f-9c90-3e8072dbb081)
 <br>
@@ -24,7 +24,7 @@ Por ahora solo nos centrarse en **Proxy**, que normalmente estará bien configur
 
 Despues, **Project > Scope**, que siempre hay que configurarlo. Click en **Add** para añadir IP del Target
 
-![Image](https://github.com/user-attachments/assets/20211f8e-4f72-4593-9ec4-11450566f752)
+![Image](https://github.com/user-attachments/assets/3e6ca947-8eda-4fcf-8616-6a95403ed636)
 <br>
 
 Si no tiene subdominios se deja asi y **OK**. Importante en la siguiente ventana: **NO**
