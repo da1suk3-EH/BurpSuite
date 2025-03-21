@@ -23,8 +23,8 @@ En la ventada de **Request** hacer click derecho y elegir la opción **Send to i
 ![Image](https://github.com/user-attachments/assets/e8e03a04-420f-4ff4-b337-ed5b824873d7)
 <br>
 
-Primero hay que elegir el modo de ataque. Los más comunes serán:
-        -**Sniper attack**, cuando se conoce uno de los parámetros.
+Primero hay que elegir el modo de ataque. Los más comunes serán:<br>
+        -**Sniper attack**, cuando se conoce uno de los parámetros.<br>
         -**Clustar bomb attack**, cuando no se conoce ninguno.
 
 ![Image](https://github.com/user-attachments/assets/00e0ffff-b60f-40ab-a169-da974a87059d)
@@ -43,7 +43,12 @@ Ahora, configurar los **Payloads**. Seleccionar el primero. Que, en ese caso, co
 
 Bajar a Payload configuration. Aquí, puedes escribir una pequeña lista o como en este caso cargar una lista de usuarios comunes.
 
-![Image](https://github.com/user-attachments/assets/81ffe914-e0df-4a6f-8a81-0e26d2e376c9)
+![Image](https://github.com/user-attachments/assets/5deda0ed-1835-4d1f-9513-c432d42fed87)
+<br>
+
+Buscar tu diccionario preferido y lo abres con **Open**. Ver, que se han cargado los resultados del diccionario.
+
+![Image](https://github.com/user-attachments/assets/a963287b-9eda-4f66-90dd-acdfead860cc)
 <br>
 
 Ir al Setting de la derecha y bajar hasta **Grep – Extract > Add**.
