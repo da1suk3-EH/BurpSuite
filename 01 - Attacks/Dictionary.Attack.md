@@ -46,11 +46,6 @@ Bajar a Payload configuration. Aquí, puedes escribir una pequeña lista o como 
 ![Image](https://github.com/user-attachments/assets/81ffe914-e0df-4a6f-8a81-0e26d2e376c9)
 <br>
 
-Buscar tu diccionario preferido y lo abres con **Open**. Ver, que se han cargado los resultados del diccionario.
-
-![Image](https://github.com/user-attachments/assets/a963287b-9eda-4f66-90dd-acdfead860cc)
-<br>
-
 Ir al Setting de la derecha y bajar hasta **Grep – Extract > Add**.
 
 ![Image](https://github.com/user-attachments/assets/9052318b-aad8-432c-acb5-3fc3967e40a7)
