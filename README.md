@@ -2,7 +2,8 @@
 
 # BurpSuite
 ## For legal purposes only
+<br>
 
-![Image](https://github.com/user-attachments/assets/6cf9d23e-4fac-4a7c-bb6d-a0044421e751)
+![Image](https://github.com/user-attachments/assets/d262aa05-ead9-4ba4-b637-9e46f5efd5aa)
 <br>
 </div>
