@@ -1,10 +1,13 @@
-**IMPORTANT:** FOR LEGAL PURPOSES ONLY<br>
-**Objective:** 
+**IMPORTANT:** FOR LEGAL PURPOSES ONLY.<br>
+**Objective:** Upload a reverse shell instead of an image.
 
 <br>
 
 ## Subir archivo
+<br>
 
+### Cambiando cabecera
+<br>
 
 Comprobar que esta limitado solo a formatos de imagenes, probando el **reverse.php** previamente configurado.
 
@@ -56,3 +59,44 @@ Para terminar, simplemente dar click en el **reverse.php** y ya estarias dentro.
 
 ![Image](https://github.com/user-attachments/assets/20b1b90e-0452-4de7-861b-6670053c9434)
 <br>
+<br>
+
+### Cambiando extensión
+<br>
+
+También se puede realizar **cambiando la extensión**. Lo primero sera cambiar el **reverse.php** a **reverse.png**.
+
+![Image](https://github.com/user-attachments/assets/a264d43b-7e97-48e9-b8fb-b0e564fc6690)
+<br>
+
+De igual manera, teniendo el **Intercept** activado en el BurpSuite, subir el **reserve.png**.
+
+![Image](https://github.com/user-attachments/assets/ec98b5bb-4911-41b9-b560-50ead87dd6e6)
+<br>
+
+Cuando se habra el BurpSuite cambiar la extension a **.php**, para que cuando se suba **se modifique** el reverse.
+Una vez hecho esto, click **Forward**.
+
+![Image](https://github.com/user-attachments/assets/c36c4280-7c5d-429c-b9d2-c157f2f9f27e)
+<br>
+
+Comprobar que funciono y volver a hacer los pasos anteriores para abrir la shell.
+
+![Image](https://github.com/user-attachments/assets/297fa5ff-d2e0-4ab7-a29c-1ffc4e3d8b92)
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
