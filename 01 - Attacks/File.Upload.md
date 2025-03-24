@@ -45,7 +45,7 @@ Ver que la pagina efectivamente a aceptado este archivo como una imagen.
 ![Image](https://github.com/user-attachments/assets/e6136312-3337-46f6-9bca-88f513f30f47)
 <br>
 
-Ir a la ruta que te indica donde subio el **reverse.php**.
+Ir a la ruta que te indica donde subio el **reverse.php**. En caso de que no te lo diga la web, esta ruta la tienes que conseguir a traves del **fuzzing web**.
 
 ![Image](https://github.com/user-attachments/assets/56d6d511-bb7c-4b83-b37f-65baa24d28aa)
 <br>
@@ -88,7 +88,7 @@ Comprobar que funciono y volver a hacer los pasos anteriores para abrir la shell
 **Si el servidor verifica las cabeceras**, hay que agregar al inicio de nuestro exploit **GIF98;** y que este tenga la extensión **.png**, osease **reverse.png**.
 <br>
 
-
+**Si los archivos php estan capados** y no es posible ejecutarlos. La solucion es **Wrappers PHP** que son una manera de ejecutar cuando la misma web los tiene filtrados. **https://deephacking.tech/php-wrappers-pentesting-web/**
 
 
 
