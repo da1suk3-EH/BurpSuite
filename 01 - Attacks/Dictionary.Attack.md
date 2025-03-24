@@ -1,10 +1,10 @@
-**IMPORTANT:** FOR LEGAL PURPOSES ONLY<br>
+**IMPORTANT:** FOR LEGAL PURPOSES ONLY.<br>
 **Objective:** Attack on login credentials with dictionary attack.
 
 <br>
 
 ## Ataque de diccionario
-
+<br>
 
 Para empezar, en el panel de login, sacar el mensaje de **error** por credenciales incorrectas.
 
