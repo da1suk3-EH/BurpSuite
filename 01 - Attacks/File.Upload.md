@@ -85,8 +85,8 @@ Comprobar que funciono y volver a hacer los pasos anteriores para abrir la shell
 ![Image](https://github.com/user-attachments/assets/297fa5ff-d2e0-4ab7-a29c-1ffc4e3d8b92)
 <br>
 
-
-
+**Si servidor verifique las cabeceras**, hay que agregar al inicio de nuestro exploit **GIF98;** y que este tenga la extensión **.png**, osease **reverse.png**.
+<br>
 
 
 
